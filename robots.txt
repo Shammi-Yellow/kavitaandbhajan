@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shammi-yellow.github.io/kavitaandbhajan/sitemap.xml
